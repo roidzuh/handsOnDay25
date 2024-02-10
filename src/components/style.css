@@ -1,0 +1,8 @@
+.nav-list {
+  display: flex;
+  gap: 10px;
+}
+
+.banner {
+  width: 500px;
+}
